@@ -1,5 +1,7 @@
 # Snake
 
+![screenshot](assets/screenshot.png)
+
 ## Game Description
 
 ### basic rules
